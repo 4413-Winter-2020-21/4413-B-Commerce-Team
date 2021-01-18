@@ -1,4 +1,4 @@
-# EECS4413- Ecommerce
+# EECS4413- B-Commerce Team
 Our team consists of:
 * Siddharth Bhardwaj- sid16
 * Arshdeep Saini- assaini
